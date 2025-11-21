@@ -5,7 +5,7 @@ public class array1 {
         seient[1]="Dani";
         seient[2]="Aryan";
         seient[3]="Adria";
-        seient[4]="Marc";
+        seient[4]="Jofre";
         seient[5]="Xavier";
         seient[6]="Iker";
         seient[7]="Joseph"; 
